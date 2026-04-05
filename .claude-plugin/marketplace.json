@@ -1,0 +1,12 @@
+{
+    "name": "shibataka000-copilot-plugins",
+    "owner": {
+        "name": "shibataka000"
+    },
+    "plugins": [
+        {
+            "name": "shibataka000",
+            "source": "./plugins/shibataka000"
+        }
+    ]
+}
