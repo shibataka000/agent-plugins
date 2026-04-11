@@ -11,6 +11,10 @@
         {
             "name": "github",
             "source": "./plugins/github"
+        },
+        {
+            "name": "kubernetes",
+            "source": "./plugins/kubernetes"
         }
     ]
 }
