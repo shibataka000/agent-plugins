@@ -1,7 +1,9 @@
 ---
 name: troubleshooting
 description: Kubernetesクラスターのトラブルシューティングを行います。
+license: MIT
 disable-model-invocation: true
+allowed-tools: Bash(kubectl:*)
 ---
 
 # troubleshooting

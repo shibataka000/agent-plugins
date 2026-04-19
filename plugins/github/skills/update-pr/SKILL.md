@@ -1,6 +1,7 @@
 ---
 name: update-pr
 description: Pull requestの変更内容をタイトル・本文へ反映します。
+license: MIT
 disable-model-invocation: true
 ---
 
